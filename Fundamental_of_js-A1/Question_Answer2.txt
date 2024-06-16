@@ -1,0 +1,71 @@
+
+
+* difference between java script and html with example -> 
+
+Javascript-> 
+
+A.Purpose: JavaScript is a programming language used to add interactivity, control, and dynamic behavior to web pages. It allows you to create interactive elements, manipulate the DOM (Document Object Model), handle events, and perform complex calculations.
+
+
+B.Syntax: JavaScript uses a more complex, scripting-based syntax that includes variables, functions, loops, conditionals, and objects.
+
+
+C.Functionality: JavaScript is dynamic and can be used to create real-time updates on web pages, handle user inputs, and communicate with servers asynchronously (AJAX).
+
+D.Usage: It is used for creating interactive elements like form validation, dynamic content updates, animations, and more.
+
+
+example --> 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interactive Web Page</title>
+    <script>
+        function showAlert() {
+            alert('Button was clicked!');
+        }
+
+        function changeText() {
+            document.getElementById('demo').innerHTML = 'Text has been changed!';
+        }
+    </script>
+</head>
+<body>
+    <h1>Welcome to My Interactive Web Page</h1>
+    <p id="demo">This is a paragraph of text.</p>
+    <button onclick="showAlert()">Click Me</button>
+    <button onclick="changeText()">Change Text</button>
+</body>
+</html>
+
+
+
+** Html -> 
+
+A.Purpose: HTML is a markup language used to create and structure content on the web. It defines the structure of web pages using elements such as headings, paragraphs, links, images, and other multimedia.
+
+
+B.Syntax: HTML uses a tag-based syntax. Tags are enclosed in angle brackets (< >) and typically come in pairs, such as <p> for paragraphs and <a> for links.
+
+
+C.Functionality: HTML is static, meaning it primarily deals with the content and structure of web pages without any interactive capabilities or dynamic behavior.
+
+
+D.Usage: It is used for laying out the foundation of a webpage, including text, images, and other media.
+
+Example-> 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+    <p>This is a paragraph of text.</p>
+    <a href="https://www.example.com">Visit Example.com</a>
+    <img src="image.jpg" alt="A description of the image">
+</body>
+</html>
+

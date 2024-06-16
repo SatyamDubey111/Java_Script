@@ -1,0 +1,7 @@
+* java script and its role in web devlopment ->
+
+javaScript is a high level , versatile programming language primarrly used in web devlopment it's fundaamental role is t enhance web page by adding interactivity and dunamic behaviour. javascript runs directly in web browsers, allowing developers to create feature such as form validation, animation, and real time updates.
+
+-> java script interact with the Document Object model, which represent the webpage's structure . this intrection enabledevelopers to manipulate and modify  web pages content , style , and lay out to user action. Java script also handles event, macking it possible to create intractive web pages.
+
+-> furthermore, javascript support Asynchronous programming curicial for task like sending and receiving data from web  server with out blocking the user interface. It has a vast ecosystem of libraries and frameworks, such as react and angular, that simplify and accelerate web development.

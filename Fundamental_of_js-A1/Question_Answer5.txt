@@ -1,0 +1,29 @@
+* importance of comment in js -> 
+
+There are two type of comment we used in coding to make aur code more readable and understandable . There are two types of comment we going to use in over all journey
+
+1. single line comment -> 
+
+Use double slashes (//) to create single-line comments. Anything after // on the same line is considered a
+comment and is not executed by the JavaScript interpreter.
+
+Example -> 
+
+// single line comment is here 
+let name = "shree shivay namastubhyam"
+
+
+2. Multi line comment ->
+
+Use /* to begin a multi-line comment and */ to end it. Everything between these symbols is treated as a
+comment, allowing you to write comments spanning multiple lines.
+
+Example ->
+
+
+/* 
+This is mlti line comment . It is used to comment not only one line but also we can comment far away of one line comment .
+
+*/
+
+

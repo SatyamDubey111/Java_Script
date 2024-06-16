@@ -1,0 +1,28 @@
+*Purpose of declaring variable in js , how we declare them using let ->
+
+The porpose of declaring variable in javascript is to reserve a memory location for storing data values that can be used throughout a program. Variable act as a place holder fro data, macking it easier to work with and manipulate information in our code .  Declaring allow to us 
+
+
+A.Storing Data: Variables hold data values that can be used later in the script. This can include numbers, strings, objects, arrays, functions, and more.
+
+
+B.Reusability: By storing data in variables, you can reuse those values multiple times within your code, making it more efficient and readable.
+
+
+C.Readability: Variables with descriptive names make your code easier to understand and maintain.
+
+
+DManipulation: Variables allow you to perform operations on stored data, such as calculations, string manipulations, or transformations.
+
+Exampleof using let ->
+
+let age = 25;
+let name = "John";
+let isStudent = true;
+
+Example of declaring and initializing a variable
+
+let age; // Declaration
+age = 30; // Initialization
+
+let name = "jonh"  // Declaration and initialization

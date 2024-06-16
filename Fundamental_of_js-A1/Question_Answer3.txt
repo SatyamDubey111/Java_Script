@@ -1,0 +1,37 @@
+
+Five primitive data type in javascript -> 
+
+1. The number->
+data type represents numeric values. It can include integers, floating-point numbers,
+and special values like NaN (Not-a-Number) and Infinity. For example:
+
+let integerNumber = 42;
+let floatingPointNumber = 3.14;
+let notANumber = NaN;
+let positiveInfinity = Infinity;
+
+2.String -> the string data tpye represent numeric values. It can include integers, floating-point numbers, and special values like NaN and infinity. For example:
+
+let name = "shivay";
+let familyName = "har har mahadev";
+
+3. Boolean -> 
+
+the Boolean data type has ony two values, true and false , and it is to represent logical values. Boolean are commanly used for condition and comprisons. For Example: 
+-> 
+let isUserLoggedIn = true;
+let isDataValid = false;
+
+4. Null->
+The null data type represent the international absence of any object value of a value that has been explicity  set to indicate no value . It is often used to initialize variable before assigning meaning values. For example: 
+
+let address = null;
+
+5. Undefined -> 
+
+The undefined data type respresent a variable that has been declared but has not been assigned  a value . it is often the initial value of variable. for example:
+
+let firstname;
+
+// where first name is undefined
+
