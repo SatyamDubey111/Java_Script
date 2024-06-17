@@ -1,0 +1,16 @@
+ 
+ Comma operator in javascript -> 
+ *-> Comma operator in javascript that comma operator allow us to evaluate multiple expressions in a single statement like declaring the multiple variable in a single statement separating them with the comma operator .  This operator is mainly used to include multiple expression in places where only one expressions is expected
+ 
+
+ Syntax of comma operator -> 
+   
+   expression1, expression2, ..., expressionN
+
+
+Example -> 
+
+for (let i = 0, j = 10; i < 5; i++, j--) {
+    console.log(`i: ${i}, j: ${j}`);
+}
+

@@ -1,0 +1,25 @@
+Ternary operator with examples ->
+
+The ternary operator is used in java script is a short hand way of writing an 'if-else ' statement. it is called "ternary" operator is as follows.
+
+In other term ternary operator is used to test the condition similar to that of an if else block . It has three operands condition statement  if condition will be false .
+
+
+Syntax of java Script -> 
+
+condition ? value if true : value if false ;
+
+Example ->
+
+function checkEvenOrOdd(number) {
+    let result = (number % 2 === 0) ? "Even" : "Odd";
+    return result;
+
+}
+
+let number = 7;
+let result = checkEvenOrOdd(number);
+
+console .log(`The number  $ {number} is {result}.`);
+
+
